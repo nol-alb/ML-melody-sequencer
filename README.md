@@ -13,4 +13,4 @@ Furthermore a Groove Drums button is added, which will further generate variatio
 This was my first time working with java script and html to create an interactive web application.
 
 Here is a link to try it out!!
-https://yippe-yipee.glitch.me
+https://fluffy-smush-machine.glitch.me
